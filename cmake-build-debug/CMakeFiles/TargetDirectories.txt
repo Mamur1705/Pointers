@@ -1,0 +1,6 @@
+D:/Pointers/cmake-build-debug/CMakeFiles/Pointers.dir
+D:/Pointers/cmake-build-debug/CMakeFiles/problem1.dir
+D:/Pointers/cmake-build-debug/CMakeFiles/problem6.dir
+D:/Pointers/cmake-build-debug/CMakeFiles/problem7.dir
+D:/Pointers/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Pointers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
